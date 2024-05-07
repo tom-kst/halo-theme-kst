@@ -1,21 +1,21 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-starter
+  name: theme-kst
 spec:
-  displayName: Theme Starter
+  displayName: Theme KST
   author:
-    name: Halo
-    website: "https://github.com/halo-dev"
+    name: Tom.KST
+    website: "https://blog.tom-tsang.com"
   description: Halo 2.0 Theme base on Thymeleaf
-  logo: "https://www.halo.run/logo"
-  homepage: "https://github.com/halo-dev/theme-starter#readme"
-  repo: "https://github.com/halo-dev/theme-starter"
-  issues: "https://github.com/halo-dev/theme-starter/issues"
-  settingName: "theme-starter-setting"
-  configMapName: "theme-starter-configMap"
+  logo: "https://blog.tom-tsang.com/upload/logo.webp"
+  homepage: "https://github.com/tom-kst/halo-theme-kst#readme"
+  repo: "https://github.com/tom-kst/halo-theme-kst"
+  issues: "https://github.com/tom-kst/halo-theme-kst/issues"
+  settingName: "theme-kst-setting"
+  configMapName: "theme-kst-configMap"
   version: "1.0.0"
   requires: ">=2.0.0"
   license:
     - name: "GPL-3.0"
-      url: "https://github.com/halo-dev/plugin-starter/blob/main/LICENSE"
+      url: "https://github.com/tom-kst/halo-theme-kst/blob/main/LICENSE"
