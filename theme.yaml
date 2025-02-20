@@ -6,10 +6,9 @@ spec:
   displayName: Theme KST
   author:
     name: Tom.KST
-    website: "https://blog.tom-tsang.com"
-  description: Halo 2.0 Theme base on Thymeleaf
-  logo: "https://blog.tom-tsang.com/upload/logo.webp"
-  homepage: "https://github.com/tom-kst/halo-theme-kst#readme"
+    website: "https://it.tom-tsang.com"
+  description: 一个简洁现代的苹果风格主题，适用于Halo博客。
+  logo: "https://it.tom-tsang.com/upload/logo.webp"
   repo: "https://github.com/tom-kst/halo-theme-kst"
   issues: "https://github.com/tom-kst/halo-theme-kst/issues"
   settingName: "theme-kst-setting"
